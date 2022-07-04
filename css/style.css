@@ -1,0 +1,20 @@
+.heading1 {
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.container {
+    background-color: aqua;
+    margin: 15px;
+    padding: 5px 20px;
+    text-align: justify;
+    border: 4px solid green;
+    border-radius: 10px;
+   
+}
+.author{
+    color:brown;
+}
+
